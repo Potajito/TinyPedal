@@ -23,6 +23,14 @@ Default API setting
 from ..constant import API
 
 API_DEFAULT = {
+    API.CONFIG_AMS2: {
+        "access_mode": 0,
+        "character_encoding": "UTF-8",
+        "enable_active_state_override": False,
+        "active_state": True,
+        "enable_player_index_override": False,
+        "player_index": -1,
+    },
     API.CONFIG_ACC: {
         "access_mode": 0,
         "memory_map_prefix": "",

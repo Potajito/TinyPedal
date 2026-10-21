@@ -28,4 +28,8 @@ TinyPedal relies on following third-party software:
   website: https://github.com/TinyPedal/pyACCSharedMemory
   license: https://github.com/TinyPedal/pyACCSharedMemory/blob/master/License.txt
 
+- pyAMS2SharedMemory, the MIT license.
+  website: https://github.com/TinyPedal/pyAMS2SharedMemory
+  license: https://github.com/TinyPedal/pyAMS2SharedMemory/blob/master/License.txt
+
 For licenses and notices of each software, see LICENSE file in "docs\licenses" folder, or visit website.
